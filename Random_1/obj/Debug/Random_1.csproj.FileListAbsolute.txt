@@ -1,0 +1,8 @@
+D:\Git\Random_1\bin\Debug\Random_1.exe.config
+D:\Git\Random_1\bin\Debug\Random_1.exe
+D:\Git\Random_1\bin\Debug\Random_1.pdb
+D:\Git\Random_1\obj\Debug\Random_1.csproj.AssemblyReference.cache
+D:\Git\Random_1\obj\Debug\Random_1.csproj.CoreCompileInputs.cache
+D:\Git\Random_1\obj\Debug\Random_1.exe
+D:\Git\Random_1\obj\Debug\Random_1.pdb
+D:\Git\Random_1\obj\Debug\Random_1.exe.config
