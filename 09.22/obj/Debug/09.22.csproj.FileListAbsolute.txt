@@ -1,0 +1,8 @@
+J:\12.osztaly\C-eles\09.22\obj\Debug\09.22.csproj.AssemblyReference.cache
+J:\12.osztaly\C-eles\09.22\obj\Debug\09.22.csproj.CoreCompileInputs.cache
+J:\12.osztaly\C-eles\09.22\bin\Debug\09.22.exe.config
+J:\12.osztaly\C-eles\09.22\bin\Debug\09.22.exe
+J:\12.osztaly\C-eles\09.22\bin\Debug\09.22.pdb
+J:\12.osztaly\C-eles\09.22\obj\Debug\09.22.exe
+J:\12.osztaly\C-eles\09.22\obj\Debug\09.22.pdb
+J:\12.osztaly\C-eles\09.22\obj\Debug\09.22.exe.config
