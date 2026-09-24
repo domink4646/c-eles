@@ -5,3 +5,11 @@ J:\12.osztaly\C-eles\09.24.2\obj\Debug\09.24.2.csproj.AssemblyReference.cache
 J:\12.osztaly\C-eles\09.24.2\obj\Debug\09.24.2.csproj.CoreCompileInputs.cache
 J:\12.osztaly\C-eles\09.24.2\obj\Debug\09.24.2.exe
 J:\12.osztaly\C-eles\09.24.2\obj\Debug\09.24.2.pdb
+D:\School\C#\c-eles\09.24.2\bin\Debug\09.24.2.exe.config
+D:\School\C#\c-eles\09.24.2\bin\Debug\09.24.2.exe
+D:\School\C#\c-eles\09.24.2\bin\Debug\09.24.2.pdb
+D:\School\C#\c-eles\09.24.2\obj\Debug\09.24.2.csproj.AssemblyReference.cache
+D:\School\C#\c-eles\09.24.2\obj\Debug\09.24.2.exe.config
+D:\School\C#\c-eles\09.24.2\obj\Debug\09.24.2.csproj.CoreCompileInputs.cache
+D:\School\C#\c-eles\09.24.2\obj\Debug\09.24.2.exe
+D:\School\C#\c-eles\09.24.2\obj\Debug\09.24.2.pdb
