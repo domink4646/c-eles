@@ -11,7 +11,7 @@ namespace _10._01._2
     {
         static void Main()
         {
-            List<Eredmeny> data = File.ReadAllLines("kimi.csv").Skip(1).Select(ln => ln.Split(';').Select(x => new Eredmeny(DateTime.Parse(x[0]), x[1], int.Parse(x[2]), ));
+            //List<Eredmeny> data = File.ReadAllLines("kimi.csv").Skip(1).Select(ln => ln.Split(';').Select(x => new Eredmeny(DateTime.Parse(x[0]), x[1], int.Parse(x[2]), ));
         }
     }
 }
