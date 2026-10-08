@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3C0BE893-BC51-4F4A-8C41-5FC2F47BAA4E}</ProjectGuid>
+    <ProjectGuid>{906CE8D3-0115-45B8-9D76-A9F4B088A201}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_10._01._2</RootNamespace>
-    <AssemblyName>10.01.2</AssemblyName>
+    <RootNamespace>_10._08</RootNamespace>
+    <AssemblyName>10.08</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Eredmeny.cs" />
+    <Compile Include="Kosarlabda.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
